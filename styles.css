@@ -26,7 +26,7 @@ h4{
 
 
  @media screen and (max-width: 768px) {
-            .footer-col {
+            .footer {
                 flex-basis: 100%;
                 margin-bottom: 20px;
             }
