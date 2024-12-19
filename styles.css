@@ -1,1 +1,29 @@
 /* your code here */
+.top{
+	display : flex;
+	justify-content : space-between;
+}
+
+img{
+	width : 50px;
+	border : none;
+	border-radius : 80%;
+}
+
+.link-boxes{
+	display : flex;
+	justify-content : space-between;
+}
+
+h5{
+	font-size : 15px;
+}
+
+h4{
+	border-bottom : 2px solid black;
+	border-bottom-width : 2px;
+}
+.bottom-details{
+	display : flex;
+	justify-content : space-between;
+}
